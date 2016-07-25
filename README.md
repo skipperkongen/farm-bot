@@ -15,6 +15,8 @@ Steps:
 2. Prepare plot of land
 3. Sow and maintain
 4. Harvest
+5. Conclusion: did it work and what did we learn?
+
 
 ## Bot 2: Other
 
